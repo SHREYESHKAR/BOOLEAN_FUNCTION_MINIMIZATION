@@ -72,7 +72,7 @@ Developed by: RegisterNumber: 24900622*/
 ![WhatsApp Image 2024-11-18 at 9 02 11 PM](https://github.com/user-attachments/assets/71c24766-8fbd-4f1a-aa72-dfa3475c21a4)
 
 
-**Timing Diagram**
+
 
 **Result:**
 
