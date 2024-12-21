@@ -66,12 +66,6 @@ Quartus Prime is a design software that enables users to analyze and synthesize 
 
 
 
-## RTL
-
-![WhatsApp Image 2024-11-18 at 9 02 11 PM](https://github.com/user-attachments/assets/71c24766-8fbd-4f1a-aa72-dfa3475c21a4)
-
-
-
 
 ## Result:
 
